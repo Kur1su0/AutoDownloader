@@ -2,7 +2,6 @@ from __future__ import print_function
 import requests
 import urllib
 from bs4 import BeautifulSoup
-#change to our dest-dir
 path = 'file/'
 
 image_src = []
